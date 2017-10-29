@@ -38,7 +38,10 @@
     "versionPublish": "4.0.17",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "userFonts": []
+    "userFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/bulb-128x128.png",
+    "noImageResize": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
